@@ -26,21 +26,17 @@
     <div class="icons">
         <a href="#" class="fas fa-heart"></a>
         <a href="#" class="fas fa-shopping-cart"></a>
-        <a href="#" class="fas fa-user"></a>
+        <a href="login.php" class="fas fa-user"></a>
     </div>
 
 </header>
-
-<!-- header section ends -->
-
-<!-- home section starts  -->
 
 <section class="home" id="home">
 
     <div class="content">
         <h3>Muslim Fashion</h3>
         <span> Natural & Beautiful </span>
-        <p>Find your style favorite here</p>
+        <p>Find your favorite style here</p>
         <a href="#" class="btn">shop now</a>
     </div>
     
